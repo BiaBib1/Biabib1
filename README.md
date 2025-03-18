@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# THINGS ABOUT ME
+
+🌱 I’m currently learning:
+                * 💻 DataBase Administration
+                * 🧮 Data Analisis
+
+🎋 I've already learned:
+                * 🐍 Python
+
+# MY WORK ON NOTION
+
+[![notion](https://img.shields.io/badge/NOTION-Biabibi-000000?style=for-the-badge&logo=NOTION&logoColor=white)](https://regular-jackrabbit-f37.notion.site/Projects-1a147d8107b8807e894cee4977a4d4f0?pvs=4)  [![notion](https://img.shields.io/badge/NOTION-Biabibi-000000?style=for-the-badge&logo=NOTION&logoColor=white)](https://regular-jackrabbit-f37.notion.sitehttps://regular-jackrabbit-f37.notion.site/Projects-1ae47d8107b880eb8244cebe050817b1?pvs=4)
