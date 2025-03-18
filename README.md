@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **BiaBib1/Biabib1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 ## THINGS ABOUT ME
 
 🌱 I’m currently learning:
-
-                *💻 DataBase Administration
-                *🧮 Data Analisis
+  * 💻 DataBase Administration
+  * 🧮 Data Analisis
 
 🎋 I've already learned:
-
-                * 🐍 Python
+  * 🐍 Python
 
 ## MY WORK ON NOTION
 
