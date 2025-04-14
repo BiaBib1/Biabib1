@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning:
   * 💻 DataBase Administration
   * 🐬 SQL
-  * 🧮 Data Analisis
+  * 🧮 Data Analysis
 
 🎋 I've already learned:
   * 🐍 Python
